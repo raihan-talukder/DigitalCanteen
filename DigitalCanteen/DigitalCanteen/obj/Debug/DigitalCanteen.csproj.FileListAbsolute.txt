@@ -49,6 +49,9 @@ C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen
 C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\System.Web.Webpages.Razor.xml
 C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\System.Web.Helpers.xml
 C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\System.Web.Mvc.xml
-C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\obj\Debug\DigitalCanteen.csprojResolveAssemblyReference.cache
 C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\obj\Debug\DigitalCanteen.dll
 C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\obj\Debug\DigitalCanteen.pdb
+C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\EntityFramework.dll
+C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\EntityFramework.SqlServer.dll
+C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\EntityFramework.xml
+C:\Users\AIUBSD-07\Documents\GitHub\DigitalCanteen\DigitalCanteen\DigitalCanteen\bin\EntityFramework.SqlServer.xml
