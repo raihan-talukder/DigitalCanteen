@@ -18,6 +18,9 @@ namespace DigitalCanteen.Data
         }
         public virtual DbSet<UserCredential> UserCredentials { get; set; }
         public virtual DbSet<UserDetail> UserDetails { get; set; }
+        public virtual DbSet<AccountDetail> AccountDetails { get; set; }
+        public virtual DbSet<Item> Items { get; set; }
+
        
         
 
